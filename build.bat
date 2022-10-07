@@ -1,0 +1,1 @@
+pyinstaller --noconsole --onefile src/main.py --distpath ./release --name "WallpaperEngineLiveWeather"

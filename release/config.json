@@ -1,0 +1,24 @@
+{
+    "_comment1": "### Put your OpenWeatherMap API key here.",
+    "api_key": "YOUR API KEY HERE",
+
+    "_comment2": "### Put your wallpaper engine binary location here.",
+    "wallpaper_engine_bin": "D:\\Steam\\steamapps\\common\\wallpaper_engine\\wallpaper64.exe",
+
+    "_comment3": "### Search your city in 'https://openweathermap.org/find' and fill in 'city' and 'country' fields with the result.",
+    "city": "seoul",
+    "country": "KR",
+
+    "_comment4": "### Mapping from weather to playlist. For example, when weather is 'clear', the wallpaper engine should play playlist named 'weather_sunny'.",
+    "playlist_prefix": "weather_",
+    "weather_bindings": {
+        "Clear": "sunny",
+        "Atmosphere": "sunny",
+        "Clouds": "sunny",
+        "Drizzle": "sunny",
+        "Rain": "rainy",
+        "Thunderstorm": "rainy",
+        "Snow": "rainy",
+        "Mist": "rainy"
+    }
+}
