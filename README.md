@@ -6,7 +6,7 @@ This project adds a new feature to the [Wallpaper Engine](https://www.wallpapere
 
 ## Installation
 
-To install, simply run `install.bat` file. (warning: DO NOT run as administrator!) This will install files in `C:\ProgramData\WallpaperEngineLiveWeather` and create a [Windows task](https://en.wikipedia.org/wiki/Windows_Task_Scheduler) scheduled to run the program every hour. To manually run the program, just execute `WallpaperEngineLiveWeather.exe`.
+To install, download `release.zip` in the [release page](https://github.com/sonowz/wallpaper-engine-live-weather/releases) and simply run `install.bat` file. (warning: DO NOT run as administrator!) This will install files in `C:\ProgramData\WallpaperEngineLiveWeather` and create a [Windows task](https://en.wikipedia.org/wiki/Windows_Task_Scheduler) scheduled to run the program every hour. To manually run the program, just execute `WallpaperEngineLiveWeather.exe`.
 
 ## Configuration
 
