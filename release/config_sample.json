@@ -19,6 +19,14 @@
         "Rain": "rainy",
         "Thunderstorm": "rainy",
         "Snow": "rainy",
-        "Mist": "rainy"
+        "Mist": "rainy",
+        "Smoke": "rainy",
+        "Haze": "rainy",
+        "Dust": "rainy",
+        "Fog": "rainy",
+        "Sand": "rainy",
+        "Ash": "rainy",
+        "Squall": "rainy",
+        "Tornado": "rainy"
     }
 }
